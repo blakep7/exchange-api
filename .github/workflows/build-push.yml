@@ -7,7 +7,7 @@ on:
     branches:
       - master
       - v2.87
-      - dev-fixes
+      - dev-fix
 
 # Variables available to all jobs
 env:
