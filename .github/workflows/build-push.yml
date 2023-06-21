@@ -49,8 +49,7 @@ jobs:
       # Comes from open source action: https://github.com/coursier/setup-action
       - name: Setup Scala
         uses: coursier/setup-action@v1
-        with:
-          jvm: adopt:17
+
 
       # Configure version variables
       - name: Config Version Variables
