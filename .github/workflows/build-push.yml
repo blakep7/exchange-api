@@ -8,6 +8,7 @@ on:
       - master
       - v2.87
       - v2.110
+      - dev-test-update
 
 # Variables available to all jobs
 env:
